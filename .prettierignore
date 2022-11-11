@@ -5,12 +5,19 @@ build
 coverage
 .docusaurus
 packages/lqip-loader/lib/
+
 packages/docusaurus/lib/
+
 packages/docusaurus-*/lib/*
+
 packages/create-docusaurus/lib/*
+
 packages/create-docusaurus/templates/*/docusaurus.config.js
+
 packages/eslint-plugin/lib/
+
 packages/stylelint-copyright/lib/
+
 __fixtures__
 
 website/i18n
